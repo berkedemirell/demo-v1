@@ -75,7 +75,7 @@ const Contact = () => {
             );
           })}
         </div>
-        <div className="border border-slate-200 shadow-xl border-opacity-50 p-4 h-info-cont sm:h-sm-info-cont ssm:h-ssm-info-cont">
+        <div className="border border-slate-200 shadow-xl border-opacity-50 p-4 h-info-cont smm:h-sm-info-cont ssm:h-ssm-info-cont">
           <h1 className="text-center text-3xl font-bold lgs:text-2xl smd:text-xl">
             Bilgi Talep Formu
           </h1>
@@ -87,7 +87,7 @@ const Contact = () => {
               <input
                 type="text"
                 required
-                className="bg-mainWhite shadow-xl border-2 border-slate-400 text-slate-950 p-1 rounded-md ml-2 w-search-input lgs:w-64 font-bold smd:w-52 smd:h-6 smm:w-72"
+                className="bg-mainWhite shadow-xl border-2 border-slate-400 smd:text-xs text-slate-950 p-1 rounded-md ml-2 w-search-input lgs:w-64 font-bold smd:w-52 smd:h-6 smm:w-72"
               />
             </div>
             <div className="flex flex-col items-start justify-start">
@@ -97,7 +97,7 @@ const Contact = () => {
               <input
                 type="e-mail"
                 required
-                className="bg-mainWhite shadow-xl border-2 border-slate-400 text-slate-950 p-1 rounded-md ml-2 w-search-input lgs:w-64 font-bold smd:w-52 smd:h-6 smm:w-72"
+                className="bg-mainWhite shadow-xl border-2 smd:text-xs border-slate-400 text-slate-950 p-1 rounded-md ml-2 w-search-input lgs:w-64 font-bold smd:w-52 smd:h-6 smm:w-72"
               />
             </div>
             <div className="flex flex-col items-start justify-start">
@@ -107,7 +107,7 @@ const Contact = () => {
               <input
                 type="number"
                 required
-                className="bg-mainWhite shadow-xl text-slate-950 border-2 border-slate-400 p-1 rounded-md ml-2 w-search-input lgs:w-64 font-bold smd:w-52 smd:h-6 smm:w-72"
+                className="bg-mainWhite shadow-xl text-slate-950 smd:text-xs border-2 border-slate-400 p-1 rounded-md ml-2 w-search-input lgs:w-64 font-bold smd:w-52 smd:h-6 smm:w-72"
               />
             </div>
             <div className="flex flex-col items-start justify-start">
@@ -120,7 +120,7 @@ const Contact = () => {
                 id=""
                 cols="30"
                 rows="10"
-                className="bg-mainWhite shadow-xl border-2 border-slate-400 text-slate-950 p-1 rounded-md lgs:w-64 ml-2 w-search-input font-bold smd:w-52 smd:h-24 smm:w-72"
+                className="bg-mainWhite smd:text-xs shadow-xl border-2 border-slate-400 text-slate-950 p-1 rounded-md lgs:w-64 ml-2 w-search-input font-bold smd:w-52 smd:h-24 smm:w-72"
               ></textarea>
             </div>
             <div className="mt-2 ml-auto mr-auto">

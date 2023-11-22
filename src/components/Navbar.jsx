@@ -171,7 +171,7 @@ const Navbar = () => {
           <div className="flex flex-row items-center relative w-mob-search-input hidden ssm:flex">
             <input
               type="text"
-              className="border-2 border-slate-400 relative h-10 w-mob-search-input rounded-xl p-2"
+              className="border-2 border-slate-400 relative h-10 w-mob-search-input rounded-xl p-2 text-slate-950"
               placeholder="Ürün ara..."
             />
             <Link className="text-2xl absolute right-2 text-slate-950">

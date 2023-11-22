@@ -91,7 +91,7 @@ const Products = () => {
   return (
     <div className="relative">
       {cat !== null && (
-        <div className="flex flex-row items-center gap-2 absolute -top-6 left-72 mmd:left-52 bg-slate-300 text-slate-950 font-bold capitalize rounded-lg pb-1 pt-1 pl-3 pr-3">
+        <div className="flex flex-row items-center gap-2 absolute ssm:top-16 ssm:pt-0 ssm:pb-0 ssm:bg-slate-600 ssm:text-slate-50 ssm:left-2 -top-6 left-72 mmd:left-52 bg-slate-300 text-slate-950 font-bold capitalize rounded-lg pb-1 pt-1 pl-3 pr-3">
           <span className="smm:text-sm">{cat}</span>
           <button
             onClick={deleteCat}
