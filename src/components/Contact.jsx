@@ -36,7 +36,7 @@ const Contact = () => {
   ];
   return (
     <div className="mt-24">
-      <h1 className="text-center mt-16 ssm:mt-12 pl-12 text-4xl font-bold mmd:text-3xl">
+      <h1 className="text-center mt-16 ssm:mt-12 pl-12 text-4xl font-bold xxs:p-0 mmd:text-3xl">
         İletişim Bilgileri
       </h1>
       <div className="grid grid-cols-2 smm:grid-cols-1 items-start pl-14 pr-14 justify-center gap-24 ssm:gap-6 mt-12 ssm:mt-6">
@@ -87,7 +87,7 @@ const Contact = () => {
               <input
                 type="text"
                 required
-                className="bg-mainWhite shadow-xl border-2 border-slate-400 smd:text-xs text-slate-950 p-1 rounded-md ml-2 w-search-input lgs:w-64 font-bold smd:w-52 smd:h-6 smm:w-72"
+                className="bg-mainWhite shadow-xl border-2 border-slate-400 smd:text-xs text-slate-950 p-1 rounded-md ml-2 w-search-input lgs:w-64 font-bold smd:w-52 smd:h-6 smm:w-72 xxs:w-56"
               />
             </div>
             <div className="flex flex-col items-start justify-start">
@@ -97,7 +97,7 @@ const Contact = () => {
               <input
                 type="e-mail"
                 required
-                className="bg-mainWhite shadow-xl border-2 smd:text-xs border-slate-400 text-slate-950 p-1 rounded-md ml-2 w-search-input lgs:w-64 font-bold smd:w-52 smd:h-6 smm:w-72"
+                className="bg-mainWhite shadow-xl border-2 smd:text-xs border-slate-400 text-slate-950 p-1 rounded-md ml-2 w-search-input lgs:w-64 font-bold smd:w-52 smd:h-6 smm:w-72 xxs:w-56"
               />
             </div>
             <div className="flex flex-col items-start justify-start">
@@ -107,7 +107,7 @@ const Contact = () => {
               <input
                 type="number"
                 required
-                className="bg-mainWhite shadow-xl text-slate-950 smd:text-xs border-2 border-slate-400 p-1 rounded-md ml-2 w-search-input lgs:w-64 font-bold smd:w-52 smd:h-6 smm:w-72"
+                className="bg-mainWhite shadow-xl text-slate-950 smd:text-xs border-2 border-slate-400 p-1 rounded-md ml-2 w-search-input lgs:w-64 font-bold smd:w-52 smd:h-6 smm:w-72 xxs:w-56"
               />
             </div>
             <div className="flex flex-col items-start justify-start">
@@ -120,7 +120,7 @@ const Contact = () => {
                 id=""
                 cols="30"
                 rows="10"
-                className="bg-mainWhite smd:text-xs shadow-xl border-2 border-slate-400 text-slate-950 p-1 rounded-md lgs:w-64 ml-2 w-search-input font-bold smd:w-52 smd:h-24 smm:w-72"
+                className="bg-mainWhite smd:text-xs shadow-xl border-2 border-slate-400 text-slate-950 p-1 rounded-md lgs:w-64 ml-2 w-search-input font-bold smd:w-52 smd:h-24 smm:w-72 xxs:w-56"
               ></textarea>
             </div>
             <div className="mt-2 ml-auto mr-auto">

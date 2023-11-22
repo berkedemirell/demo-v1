@@ -17,7 +17,7 @@ import { Link } from "react-router-dom";
                     return (
                     <div key={d.id} className="border-2 border-slate-200 3xl:w-80 w-64 flex flex-col lgs:w-52 xss:w-44 items-center rounded-xl shadow-pro-card">
                         <div className="border-b border-main">
-                            <img src={d.image} alt="" className="w-64 3xl:w-80 h-40 xss:h-36 3xl:h-48 rounded-xl"/>
+                            <img src={d.image} alt="" className="w-64 3xl:w-80 h-40 xss:h-36 3xl:h-48 rounded-xl xxs:h-32"/>
                         </div>
                         <div className="p-2 pl-4 pr-4 text-center h-40 text-slate-950 flex flex-col justify-between">
                             <div>
@@ -25,8 +25,8 @@ import { Link } from "react-router-dom";
                                 <p className="font-bold text-sm mt-1 3xl:text-lg xss:text-xs">{d.description.split(' ').slice(0,7).join(' ')}...</p>
                             </div>
                             <div className="text-center">
-                                <button className="hover-button text-center bg-main text-slate-50 w-20 h-8 font-bold rounded-md">
-                                    <p className="hover-button--off text-sm">Detay</p>
+                                <button className="hover-button text-center bg-main text-slate-50 w-20 h-8 xxs:w-14 xxs:h-6 font-bold rounded-md">
+                                    <p className="hover-button--off text-sm xxs:text-xs">Detay</p>
                                     <span className="hover-button--on text-2xl transition-all">&rarr;</span>
                                 </button>
                             </div>
