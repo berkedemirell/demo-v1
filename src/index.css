@@ -1,0 +1,28 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    scroll-behavior: smooth;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+textarea {
+  resize: none;
+}
+
+
+.hover-button--on,
+.hover-button:hover .hover-button--off {
+  display: none;
+  transition: all;
+  transition-duration: 2s;
+}
+
+.hover-button:hover .hover-button--on {
+  display: inline;
+  transition:cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition-duration: 2s;
+}

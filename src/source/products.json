@@ -1,0 +1,222 @@
+
+
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Samsung Ekran",
+            "brand": "samsung",
+            "category": "Bilgisayar ekipmanları",
+            "image": "https://images.samsung.com/is/image/samsung/tr-curved-cf390-lc24f390fhmxuf-001-front-black?$1300_1038_PNG$",
+            "description": "IPS teknolojisine sahip LG monitör, kısalan tepki süreleri ve gelişmiş renk üretimi ile kullanıcılar, ekranı geniş açılardan izleyebilir"
+        },
+        {
+            "id": 2,
+            "title": "3'lü Priz",
+            "brand": "kel buraq",
+            "category": "elektrik ürünleri",
+            "image": "https://cdn.akakce.com/viko/viko-multi-let-toprakli-3-lu-1-m-z.jpg",
+            "description": "Elektrikli cihazlarınızı uzaktan aç/kapa yapabilir; akıllı telefon ve tabletinizden yönetebilirsiniz. Kablosuzdur, ek donanıma ihtiyaç duymadan, Wi-Fi internetiniz ile çalışır."
+        },
+        {
+            "id": 3,
+            "title": "Logitech Mouse",
+            "brand": "Logitech",
+            "category": "Bilgisayar ekipmanları",
+            "image": "https://resource.logitech.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3-for-mac/gallery/mx-anywhere-3-for-mac-product-gallery-pale-gray-top.png?v=1",
+            "description": "Minimalist, modern bir tasarıma sahiptir. Pürüzsüz doğal şekli sayesinde kolayca taşınabilir. Masanıza ve tarzınıza uygun farklı renk seçenekleri vardır. Yüksek hassasiyetli optik izleme özelliği sayesinde birçok yüzeyde imleci hareket ettirebilirsiniz. Avucunuzun şeklini doğal bir biçimde alırken aynı zamanda ekstra ince olacak şekilde de tasarlanmıştır."
+        },
+        {
+            "id": 4,
+            "title": "Playstation 5",
+            "brand": "Sony",
+            "category": "Konsol",
+            "image": "https://media.istockphoto.com/id/1287493837/tr/foto%C4%9Fraf/sony-playstation-5-konsolu-ve-oyunlar%C4%B1.jpg?s=1024x1024&w=is&k=20&c=RRi6fHn4ROLZ_b6BhIsdguZEkkuVLZX4tkjOlQkCLYs=",
+            "description": "Bir ürün, birden fazla satıcı tarafından satılabilir. Birden fazla satıcı tarafından satışa sunulan ürünlerin satıcıları ürün için belirledikleri fiyata, satıcı puanlarına, teslimat statülerine, ürünlerdeki promosyonlara, kargonun bedava olup olmamasına ve ürünlerin hızlı teslimat ile teslim edilip edilememesine, ürünlerin stok ve kategorileri bilgilerine göre sıralanmaktadır."
+        },
+        {
+            "id": 5,
+            "title": "Ethernet Kablosu",
+            "brand": "kel buraq",
+            "category": "Kablo",
+            "image": "https://m.media-amazon.com/images/I/4151bh9+swL._AC_SX569_.jpg",
+            "description": "10 Gbps Yüksek Hız: RJ45 Ethernet kablosu, 10/100/1000/10.000 Mbps (10 Gbps) Ethernet ağları, 600 MHz bant genişliği kapasiteleri (250 MHz'deki CAT 6 kablosuna kıyasla) için idealdir. Bu Cat 7 kablosuyla daha akıcı bir oyun deneyiminin ve daha hızlı ve daha verimli aktarım hızının keyfini çıkarabilirsiniz."
+        },
+        {
+            "id": 6,
+            "title": "Tplink Modem",
+            "brand": "Tplink",
+            "category": "Bilgisayar ekipmanları",
+            "image": "https://cdn.akakce.com/z/tp-link/tp-link-td-w8961n-300-mbps-adsl.jpg",
+            "description": "Tak ve çalıştır,kompakt boyutlu, yerden kazandıran.Otomatik olarak Yükseltme WiFi yükseltici,çalışmadığı sürece bellenimi otomatik olarak yükseltir"
+        },
+        {
+            "id": 7,
+            "title": "Kel Kafalı Buraq",
+            "brand": "Kel",
+            "category": "İnsan",
+            "image": "../src/source/image/kelburaq.jpeg",
+            "description": "Tak ve çalıştır,kompakt boyutlu, yerden kazandıran.Otomatik olarak Yükseltme WiFi yükseltici,çalışmadığı sürece bellenimi otomatik olarak yükseltir"
+        },
+        {
+            "id": 8,
+            "title": "Ses Kartı",
+            "brand": "S-Link",
+            "category": "Bilgisayar ekipmanları",
+            "image": "https://www.depostar.com/s-link-sl-u70-71-channel-usb-ses-sound-ses-karti-s-link-10191-23-O.jpg",
+            "description": "Ses kartı USB formatında cihazınıza bağlanabilir. Cihazınızdan çıkan sesi, uygulama seslerini, vs. arttırmak için ideal bir araçtır. Fiyatıyla, işleviyle kendinden oldukça bahsettirmeyi başarmıştır."
+        },
+        {
+            "id": 9,
+            "title": "DVI Kablo",
+            "brand": "S-Link",
+            "category": "Kablo",
+            "image": "https://www.depostar.com/s-link-sl-dvi105-5mt-241-dvi-to-dvi-kablo-dvi-kablo-s-link-10659-23-O.jpg",
+            "description": "S-LİNK SL-DVI105  5MT 24+1 DVI TO DVI KABLO"
+        },
+        {
+            "id": 10,
+            "title": "750W Adaptör",
+            "brand": "Mervesan",
+            "category": "Sterilize Ürünler",
+            "image": "https://www.depostar.com/mervesan-ms-750-24-750w-24v-31a-adaptor-metal-kasa-adaptor-mervesan-9999-23-O.jpg",
+            "description": "MERVESAN MS-750-24 750W 24V 31A ADAPTÖR"
+        },
+        {
+            "id": 11,
+            "title": "Bullet IP Kamera",
+            "brand": "Hilook",
+            "category": "Güvenlik ve Kamera",
+            "image": "https://www.depostar.com/hilook-ipc-b620h-v-2mp-ip-28-12mm-varifocal-ir-bullet-ip-kamera-hk-02-ip-bullet-kameralar-hilook-12096-24-O.jpg",
+            "description": "Hilook IPC-B621H-V 2mp 2.8-8mm Ip Ir Poe Bullet Ka"
+        },
+        {
+            "id": 12,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 13,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 14,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 15,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 16,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 17,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 18,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 19,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 20,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 21,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 22,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 23,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 24,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 25,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 26,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        },
+        {
+            "id": 27,
+            "title": "Çanak Ampül",
+            "brand": "Philips",
+            "category": "Aydınlatma ve Led",
+            "image": "https://www.depostar.com/philips-elc-al/philips-elc-al259-24v-250w-gx-53-canak-ampul-aydinlatma-urunleri-philips-11347-23-O.jpg",
+            "description":"PHILIPS ELC-AL/259 24V 250W GX-5.3 ÇANAK AMPÜL"
+        }
+    ]
+}
