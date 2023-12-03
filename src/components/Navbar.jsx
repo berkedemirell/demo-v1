@@ -30,7 +30,7 @@ const Navbar = () => {
       id: 4,
       title: "Markalarımız",
       isDropped: false,
-      to: "/",
+      to: "/brands",
       droppedContent: currentBrands,
     },
     {

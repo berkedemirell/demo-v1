@@ -5,6 +5,7 @@ import Main from './components/Main'
 import Navbar from './components/Navbar'
 import { createBrowserRouter, RouterProvider, Outlet } from 'react-router-dom'
 import Products from './pages/Products'
+import Brands from './pages/Brands'
 
 function App() {
 
@@ -31,7 +32,11 @@ function App() {
         {
           path:'/products',
           element: <Products/>
-        }
+        },
+        {
+          path:'/brands',
+          element: <Brands/>
+        },
       ]
     }
   ])
